@@ -1,4 +1,2 @@
 - 思維導圖
-- web
-- local
-- merge
+- git hub commit
